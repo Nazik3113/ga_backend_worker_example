@@ -1,0 +1,14 @@
+{
+  "name": "hsa10.4",
+  "version": "1.0.0",
+  "description": "Projector HSA10.4 homework",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nazarii.Spikhalskyi <nazarii.spikhalskyi@gmail.com>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
